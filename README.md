@@ -1,10 +1,8 @@
-#mushroom
-
-慕课React-redux课程源码
 
 
 
-## 慕课网课程，涉及的技术
+
+## 项目涉及的技术
 
 * React16
 * redux 管理状态
@@ -13,5 +11,3 @@
 * express 
 * mongodb
 * socket.io
-
-希望录制一个高质量的课程
